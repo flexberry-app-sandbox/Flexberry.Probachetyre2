@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probachetyre-контрагент-e",
+  "editForm": "i-i-s-probachetyre-контрагент-e",
+  "external": false,
+  "caption": "Контрагент",
+  "name": "IISProbachetyreКонтрагентL",
+  "className": "КонтрагентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probachetyre-контрагент",
+      "modelProjection": "КонтрагентL"
+    }
+  ]
+}

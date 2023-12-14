@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probachetyre-номенклатура-e",
+  "editForm": "i-i-s-probachetyre-номенклатура-e",
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IISProbachetyreНоменклатураL",
+  "className": "НоменклатураL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probachetyre-номенклатура",
+      "modelProjection": "НоменклатураL"
+    }
+  ]
+}

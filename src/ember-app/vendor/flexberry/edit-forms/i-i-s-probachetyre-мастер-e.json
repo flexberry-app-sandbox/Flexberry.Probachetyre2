@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Мастер",
+  "name": "IISProbachetyreМастерE",
+  "className": "МастерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probachetyre-мастер",
+      "modelProjection": "МастерE"
+    }
+  ]
+}

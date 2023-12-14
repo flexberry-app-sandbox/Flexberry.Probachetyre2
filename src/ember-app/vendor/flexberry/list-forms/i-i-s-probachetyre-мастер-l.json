@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probachetyre-мастер-e",
+  "editForm": "i-i-s-probachetyre-мастер-e",
+  "external": false,
+  "caption": "Мастер",
+  "name": "IISProbachetyreМастерL",
+  "className": "МастерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probachetyre-мастер",
+      "modelProjection": "МастерL"
+    }
+  ]
+}

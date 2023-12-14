@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Probachetyre",
+  "className": "Статус",
+  "enumObjects": {
+    "Готов": "",
+    "Принят": ""
+  }
+}

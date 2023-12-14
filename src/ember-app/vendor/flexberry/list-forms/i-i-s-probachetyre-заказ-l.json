@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probachetyre-заказ-e",
+  "editForm": "i-i-s-probachetyre-заказ-e",
+  "external": false,
+  "caption": "Оформление заказов",
+  "name": "IISProbachetyreЗаказL",
+  "className": "ЗаказL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probachetyre-заказ",
+      "modelProjection": "ЗаказL"
+    }
+  ]
+}
