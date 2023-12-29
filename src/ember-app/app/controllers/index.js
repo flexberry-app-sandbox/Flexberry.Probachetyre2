@@ -26,19 +26,19 @@ export default Controller.extend({
               link: 'i-i-s-probachetyre-контрагент-l',
               caption: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-контрагент-l.caption'),
               title: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-контрагент-l.title'),
-              icon: 'tasks',
+              icon: 'table',
               children: null
             }, {
               link: 'i-i-s-probachetyre-мастер-l',
               caption: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-мастер-l.caption'),
               title: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-мастер-l.title'),
-              icon: 'edit',
+              icon: 'phone',
               children: null
             }, {
               link: 'i-i-s-probachetyre-номенклатура-l',
               caption: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-номенклатура-l.caption'),
               title: i18n.t('forms.application.sitemap.заказы.справочники.i-i-s-probachetyre-номенклатура-l.title'),
-              icon: 'table',
+              icon: 'folder',
               children: null
             }]
           }, {
@@ -49,13 +49,12 @@ export default Controller.extend({
               link: 'i-i-s-probachetyre-заказ-l',
               caption: i18n.t('forms.application.sitemap.заказы.документация.i-i-s-probachetyre-заказ-l.caption'),
               title: i18n.t('forms.application.sitemap.заказы.документация.i-i-s-probachetyre-заказ-l.title'),
-              icon: 'book',
+              icon: 'archive',
               children: null
             }, {
               link: 'i-i-s-probachetyre-журнал-заказов-l',
               caption: i18n.t('forms.application.sitemap.заказы.документация.i-i-s-probachetyre-журнал-заказов-l.caption'),
               title: i18n.t('forms.application.sitemap.заказы.документация.i-i-s-probachetyre-журнал-заказов-l.title'),
-              icon: 'list',
               children: null
             }]
           }]
